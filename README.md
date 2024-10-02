@@ -8,7 +8,7 @@ Hello! I'm Vinay Patil, a Third-year Computer Science and Engineering student pa
 **Check out some of my projects:**
 * https://github.com/vinayhpatil/forestfirealert
 
-* Don't forget to check my portfolio
+**Don't forget to check my portfolio**
 * http://datascienceportfol.io/vinayhpatil
 
 
