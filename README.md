@@ -1,7 +1,7 @@
 Hello! I'm Vinay Patil, a Third-year Computer Science and Engineering student passionate about coding, problem-solving, and learning new technologies around the World.
 
 **Let's connect!** 
-* 📫 **Email:** vinayhpatil@jitd.in
+* 📫 **Email:** vinaypatil2634@gmail.com
 * 🔗 **LinkedIn:** https://linkedin.com/in/vinayhpatil
 * 🐦 **Twitter:** https://x.com/v_p_czar
 
