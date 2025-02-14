@@ -10,6 +10,7 @@ Hello! I'm Vinay Patil, a Third-year Computer Science and Engineering student pa
 
 **Don't forget to check my portfolio**
 * http://datascienceportfol.io/vinayhpatil
+* https://bento.me/vinayhpatil
 
 
 
